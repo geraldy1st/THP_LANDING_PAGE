@@ -2,7 +2,12 @@
 
 ### La team design (Alison, Larry, Gerlady) :
 
-(une partie qui explique tout le site : choix du design, comment le code a été fait, choix des éléments, pourquoi la page a telle structure, choix des sous-parties s'il y a plusieurs LPs, c'est aussi très bien d'expliquer les choix des structures pour chaque LP)
+Notre stratégie pour le choix du design a été simple: mettre en place une page épurée et fonctionnelle. Cette page a ensuite été déclinée en fonction des différentes cibles identifiées par la team acquisition. Le contenu a été déclinée en fonction de ces cibles, notamment les bonnes raisons de rejoindre THP.
+
+Nous avons décidé de mettre le CTA (formulaire MailChimp) en haut de page afin qu'il soit le premire élément attirant l'oeil du visiteur.
+Toutes les informations essentielles à la conversion sont affichées sur la même page afin de pousser à l'action.
+
+Le code HMTL a été divisé en grandes catégories qui sont ensuite affichées sur chaque landing page via le 'render'.
 
 ### La team acquisition (Caroline, Kévin, Thomas) :
 
