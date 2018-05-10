@@ -1,5 +1,5 @@
 ## Concours d'inscriptions à un site
-
+==> https://the-hacking-project-paris.herokuapp.com/static/etudiant
 ### La team design (Alison, Larry, Gerlady) :
 
 Notre stratégie pour le choix du design a été simple: mettre en place une page épurée et fonctionnelle. Cette page a ensuite été déclinée en fonction des différentes cibles identifiées par la team acquisition. Le contenu a été décliné en fonction de ces cibles, notamment les '3 bonnes raisons de rejoindre THP'.
