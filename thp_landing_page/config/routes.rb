@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  root 'static#etudiant'
+
   get 'static/pro'
   get 'static/etudiant'
   get 'static/reconver'
